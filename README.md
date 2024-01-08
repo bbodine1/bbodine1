@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/bbodine1/bbodine1/main/name.svg" alt="Brad Bodine" />
+</h1>
 
 <!--
 **bbodine1/bbodine1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
