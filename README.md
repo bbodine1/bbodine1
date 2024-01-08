@@ -2,6 +2,10 @@
   <img src="https://raw.githubusercontent.com/bbodine1/bbodine1/main/name.svg" alt="Brad Bodine" />
 </h1>
 
+--- 
+
+<!-- ![Brad's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbodine1&show_icons=true&bg_color=00000000) -->
+
 <!--
 **bbodine1/bbodine1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
