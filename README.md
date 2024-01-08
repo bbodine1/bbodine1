@@ -4,6 +4,10 @@
 
 --- 
 
+[![Twitter: brad_bodine](https://img.shields.io/twitter/follow/brad_bodine?style=social)](https://twitter.com/brad_bodine)
+[![Linkedin: brad-bodine](https://img.shields.io/badge/-bradbodine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brad-bodine/)](https://www.linkedin.com/in/brad-bodine/)
+[![GitHub bbodine1](https://img.shields.io/github/followers/bbodine1?label=follow&style=social)](https://github.com/bbodine1)
+
 <!-- ![Brad's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbodine1&show_icons=true&bg_color=00000000) -->
 
 <picture>
